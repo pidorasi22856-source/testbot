@@ -1,0 +1,1 @@
+{"ok":false,"error":"waitForCode: код не пришёл за 120с"}

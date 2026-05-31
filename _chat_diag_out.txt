@@ -1,0 +1,18 @@
+=== STEP 1: сервер отвечает? ===
+{"s":200}
+
+=== STEP 2: какой is_current и какое у него состояние? ===
+current: 2ccszek3rqvm@sqlcompiler.info space_id: 346a18a0-8f4b-8128-b22c-0003df4fcde7 plan: free credits: 825 / 825 last_check_error: 
+
+=== STEP 3: getSpaces / getAIUsageEligibilityV2 — что отвечает прямо сейчас? ===
+getSpaces: 200 {"370d872b-594c-81ce-a11c-0002edd7e73a":{"__version__":3,"notion_user":{"370d872b-594c-81ce-a11c-0002edd7e73a":{"value":{"value":{"id":"370d872b-594c-81ce-a11c-0002edd7e73a","version":3,"email":"2ccszek3rqvm@sqlcompiler.info","onboarding_completed":true,"name":"Avery Lopez"},"role":"editor"}}},"user
+  parsed spaceId: 346a18a0-8f4b-8128-b22c-0003df4fcde7
+getAIUsageEligibilityV2: 200 {"usage":{"currentServicePeriod":{"spaceUsage":0,"userUsage":0},"lifetime":{"spaceUsage":1,"userUsage":1,"userPromotionalUsage":0},"totalCreditBalance":0,"creditsInOverage":0,"lastSpaceUsageAtMs":1780159608747,"lastSpaceUserUsageAtMs":1780159608747},"limits":{"purchased":{"totalLimit":0,"perSource":{"allocated":0,"flexible_recurring":0,"monthlyAllocated":0,"monthlyCommitted":0,"yearlyElastic":0}},
+
+=== STEP 4: настоящий runInferenceTranscript на этом аккаунте ===
+  invoking runChat...
+  RESULT text len: 0 usage: {}
+  RESULT first 300: 
+  total deltas received: 0
+
+=== DONE ===

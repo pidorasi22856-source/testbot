@@ -1,0 +1,12 @@
+account: 2ccszek3rqvm@sqlcompiler.info
+TRY baseline (no override) => http 200 len 35340 model: oatmeal-cookie
+TRY config.modelOverride => http 200 len 35559 model: oatmeal-cookie
+TRY config.model => http 200 len 32803 model: apricot-sorbet-high
+TRY config.modelFromUser=true + modelOverride => http 200 len 39443 model: oatmeal-cookie
+TRY config.modelFromUser=true + model => http 200 len 32719 model: apricot-sorbet-high
+TRY config.userPickedModel => http 200 len 37672 model: oatmeal-cookie
+TRY config.modelFromUser + userPickedModel => http 200 len 35584 model: oatmeal-cookie
+TRY config.selectedModel => http 200 len 37968 model: oatmeal-cookie
+TRY top-level body.model => http 200 len 35635 model: oatmeal-cookie
+TRY top-level body.modelOverride => http 200 len 37716 model: oatmeal-cookie
+TRY top-level body.userPickedModel => http 200 len 39681 model: oatmeal-cookie

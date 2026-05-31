@@ -1,0 +1,126 @@
+15:47:08 inbox: h0xumzjls5es@isapi.live
+15:47:08 proxy: mobile.bpproxy.at:3000
+15:47:13 email submitted
+15:47:20 code=129945
+15:47:20 code submitted — наблюдаем экраны после входа
+15:47:22 ===== post-login-1 =====
+15:47:22 URL: https://www.notion.so/login
+15:47:22 BUTTONS: ["Skip to content","Clear Input","Loading...\nContinue","Google","Apple","Microsoft","Passkey","SSO","Sign up","Terms & Conditions","Privacy Policy","Language: English (US)","Help"]
+15:47:22 INPUTS: [{"type":"email","name":"","ph":"Enter your email address..."},{"type":"text","name":"","ph":"Enter code"}]
+15:47:22 TEXT:
+Skip to content
+Your AI workspace.
+Log in to your Notion account
+Email
+Use an organization email to easily collaborate with teammates
+Verification code
+We sent a code to your inbox
+Loading...
+Continue
+Resend in 24s
+or continue with
+Google
+Apple
+Microsoft
+Passkey
+SSO
+New user? Sign up
+By continuing, you acknowledge that you understand and agree to the Terms & Conditions and Privacy Policy
+Language: English (US)
+
+15:47:22 >>> ПОХОЖЕ НА ЭКРАН ВЫБORA WORKSPACE на шаге 1
+15:47:27 ===== post-login-2 =====
+15:47:27 URL: https://www.notion.so/onboarding
+15:47:27 BUTTONS: []
+15:47:27 INPUTS: []
+15:47:27 TEXT:
+
+
+15:47:32 ===== post-login-3 =====
+15:47:32 URL: https://www.notion.so/onboarding
+15:47:32 BUTTONS: ["Skip to content","Continue","Privacy Policy","Language: English (US)"]
+15:47:32 INPUTS: [{"type":"text","name":"","ph":""},{"type":"checkbox","name":"","ph":""}]
+15:47:32 TEXT:
+Skip to content
+Customize your profile
+This is how you will appear in Notion
+Your name
+Continue
+I agree to Notion marketing communications
+You may unsubscribe from receiving marketing communications at any time. Notion’s websites and communications are subject to our Privacy Policy.
+Language: English (US)
+
+15:47:37 ===== post-login-4 =====
+15:47:37 URL: https://www.notion.so/onboarding
+15:47:37 BUTTONS: ["Skip to content","Continue","Privacy Policy","Language: English (US)"]
+15:47:37 INPUTS: [{"type":"text","name":"","ph":""},{"type":"checkbox","name":"","ph":""}]
+15:47:37 TEXT:
+Skip to content
+Customize your profile
+This is how you will appear in Notion
+Your name
+Continue
+I agree to Notion marketing communications
+You may unsubscribe from receiving marketing communications at any time. Notion’s websites and communications are subject to our Privacy Policy.
+Language: English (US)
+
+15:47:42 ===== post-login-5 =====
+15:47:42 URL: https://www.notion.so/onboarding
+15:47:42 BUTTONS: ["Skip to content","Continue","Privacy Policy","Language: English (US)"]
+15:47:42 INPUTS: [{"type":"text","name":"","ph":""},{"type":"checkbox","name":"","ph":""}]
+15:47:42 TEXT:
+Skip to content
+Customize your profile
+This is how you will appear in Notion
+Your name
+Continue
+I agree to Notion marketing communications
+You may unsubscribe from receiving marketing communications at any time. Notion’s websites and communications are subject to our Privacy Policy.
+Language: English (US)
+
+15:47:47 ===== post-login-6 =====
+15:47:47 URL: https://www.notion.so/onboarding
+15:47:47 BUTTONS: ["Skip to content","Continue","Privacy Policy","Language: English (US)"]
+15:47:47 INPUTS: [{"type":"text","name":"","ph":""},{"type":"checkbox","name":"","ph":""}]
+15:47:47 TEXT:
+Skip to content
+Customize your profile
+This is how you will appear in Notion
+Your name
+Continue
+I agree to Notion marketing communications
+You may unsubscribe from receiving marketing communications at any time. Notion’s websites and communications are subject to our Privacy Policy.
+Language: English (US)
+
+15:47:52 ===== post-login-7 =====
+15:47:52 URL: https://www.notion.so/onboarding
+15:47:52 BUTTONS: ["Skip to content","Continue","Privacy Policy","Language: English (US)"]
+15:47:52 INPUTS: [{"type":"text","name":"","ph":""},{"type":"checkbox","name":"","ph":""}]
+15:47:52 TEXT:
+Skip to content
+Customize your profile
+This is how you will appear in Notion
+Your name
+Continue
+I agree to Notion marketing communications
+You may unsubscribe from receiving marketing communications at any time. Notion’s websites and communications are subject to our Privacy Policy.
+Language: English (US)
+
+15:47:57 ===== post-login-8 =====
+15:47:57 URL: https://www.notion.so/onboarding
+15:47:57 BUTTONS: ["Skip to content","Continue","Privacy Policy","Language: English (US)"]
+15:47:57 INPUTS: [{"type":"text","name":"","ph":""},{"type":"checkbox","name":"","ph":""}]
+15:47:57 TEXT:
+Skip to content
+Customize your profile
+This is how you will appear in Notion
+Your name
+Continue
+I agree to Notion marketing communications
+You may unsubscribe from receiving marketing communications at any time. Notion’s websites and communications are subject to our Privacy Policy.
+Language: English (US)
+
+15:48:00 Браузер открыт 5 минут — посмотри экран и опиши, что нажимать.
+15:50:59 ERR page.waitForTimeout: Target page, context or browser has been closed
+page.waitForTimeout: Target page, context or browser has been closed
+    at C:\Users\jadexov\kiro-manager\_ws_explore.js:91:16

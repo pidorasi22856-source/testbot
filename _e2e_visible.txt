@@ -1,0 +1,7 @@
+15:59:49 proxy: mobile.bpproxy.at:3000
+15:59:49 stage: creating_address {"provider":"tempmail"}
+15:59:51 stage: launching_browser {"channel":"msedge"}
+15:59:52 stage: opening_login {"url":"https://www.notion.so/login"}
+15:59:53 stage: entering_email {"email":"chcc4huv5eql@addmy.space"}
+15:59:57 stage: waiting_for_code_field {}
+15:59:57 stage: waiting_for_email_code {"email":"chcc4huv5eql@addmy.space"}

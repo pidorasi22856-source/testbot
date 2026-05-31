@@ -1,0 +1,20 @@
+14:35:24 registered (real): enj801br7nh@ditube.info
+14:35:37 notion: CODE_SENT
+14:35:40 +0s count=0
+14:35:45 +5s count=0
+14:35:50 +11s count=0
+14:35:55 +16s count=0
+14:36:00 +21s count=0
+14:36:06 +26s count=0
+14:36:11 +32s count=0
+14:36:16 +37s count=0
+14:36:21 +42s count=0
+14:36:30 +51s count=0
+14:36:35 +56s count=0
+14:36:41 +61s count=0
+14:36:48 +69s count=0
+14:36:53 +74s count=0
+14:36:59 +79s count=0
+14:37:04 +84s count=0
+14:37:09 +90s count=0
+14:37:14 NO DELIVERY 90s

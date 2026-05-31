@@ -1,0 +1,27 @@
+16:01:56 inbox: zkbbp4yf39m5@attachmy.site
+16:02:01 email submitted, waiting 8s for code screen…
+16:02:09 URL: https://www.notion.so/login
+16:02:09 TEXT:
+Skip to content
+Your AI workspace.
+Log in to your Notion account
+Email
+Use an organization email to easily collaborate with teammates
+Verification code
+We sent a code to your inbox
+Continue
+Resend in 25s
+or continue with
+Google
+Apple
+Microsoft
+Passkey
+SSO
+New user? Sign up
+By continuing, you acknowledge that you understand and agree to the Terms & Conditions and Privacy Policy
+Language: English (US)
+16:02:09 INPUTS:
+16:02:09    {"tag":"INPUT","visible":true,"x":785,"y":264,"w":308,"h":26,"attrs":{"id":"notion-email-input-2","placeholder":"Enter your email address...","type":"email","class":"x1qlqyl8 x15bjb6t x76ihet xtmcdsl x112ta8 x4gj9lk x11g6tue x1lliihq xtt52l0 xexx8yu xyri2b x18d9i69 x1c1uobl xa7awgv xh8yej3"}}
+16:02:09    {"tag":"INPUT","visible":true,"x":779,"y":363,"w":340,"h":26,"attrs":{"id":"notion-password-input-3","placeholder":"Enter code","autocomplete":"one-time-code","autocorrect":"off","autocapitalize":"off","spellcheck":"false","type":"text","class":"x1qlqyl8 x15bjb6t x76ihet xtmcdsl x112ta8 x4gj9lk x11g6tue x1lliihq xtt52l0 xexx8yu xyri2b x18d9i69 x1c1uobl xa7awgv xh8yej3"}}
+16:02:09 
+оставляю окно на 60с — посмотри сам

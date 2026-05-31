@@ -1,0 +1,4 @@
+14:33:24 registered: bbkf2srliyb@ditube.info {"success":true,"message":"Inbox registered.","inbox":"bbkf2srliyb@ditube.info"}
+14:33:59 notion: CODE_SENT
+14:34:05 waiting for OTP via SDK...
+14:34:05 OTP RESULT: {"ok":false,"e":"Timed out waiting for OTP in bbkf2srliyb@ditube.info after 30000ms"}

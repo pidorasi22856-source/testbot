@@ -1,0 +1,45 @@
+14:09:32 register: {"success":true,"message":"Inbox registered.","inbox":"0zjqozmbvwo@ditube.info"}
+14:09:33 inbox: 0zjqozmbvwo@ditube.info
+14:11:08 notion: CODE_SENT
+14:11:48 +0s
+14:11:48   MESSAGES_RAW: {"success":true,"data":[],"count":0}
+14:11:48   OTP_RAW: {"success":true,"otp":null,"code":null,"message":"No OTP found in recent messages."}
+14:11:52 +4s
+14:11:52   MESSAGES_RAW: {"success":true,"data":[],"count":0}
+14:11:52   OTP_RAW: {"success":true,"otp":null,"code":null,"message":"No OTP found in recent messages."}
+14:11:56 +9s
+14:11:56   MESSAGES_RAW: {"success":true,"data":[],"count":0}
+14:11:56   OTP_RAW: {"success":true,"otp":null,"code":null,"message":"No OTP found in recent messages."}
+14:12:00 +13s
+14:12:00   MESSAGES_RAW: {"success":true,"data":[],"count":0}
+14:12:00   OTP_RAW: {"success":true,"otp":null,"code":null,"message":"No OTP found in recent messages."}
+14:12:05 +17s
+14:12:05   MESSAGES_RAW: {"success":true,"data":[],"count":0}
+14:12:05   OTP_RAW: {"success":true,"otp":null,"code":null,"message":"No OTP found in recent messages."}
+14:12:09 +21s
+14:12:09   MESSAGES_RAW: {"success":true,"data":[],"count":0}
+14:12:09   OTP_RAW: {"success":true,"otp":null,"code":null,"message":"No OTP found in recent messages."}
+14:12:13 +25s
+14:12:13   MESSAGES_RAW: {"success":true,"data":[],"count":0}
+14:12:13   OTP_RAW: {"success":true,"otp":null,"code":null,"message":"No OTP found in recent messages."}
+14:12:17 +29s
+14:12:17   MESSAGES_RAW: {"success":true,"data":[],"count":0}
+14:12:17   OTP_RAW: {"success":true,"otp":null,"code":null,"message":"No OTP found in recent messages."}
+14:12:21 +34s
+14:12:21   MESSAGES_RAW: {"success":true,"data":[],"count":0}
+14:12:21   OTP_RAW: {"success":true,"otp":null,"code":null,"message":"No OTP found in recent messages."}
+14:12:26 +38s
+14:12:26   MESSAGES_RAW: {"success":true,"data":[],"count":0}
+14:12:26   OTP_RAW: {"success":true,"otp":null,"code":null,"message":"No OTP found in recent messages."}
+14:12:31 +43s
+14:12:31   MESSAGES_RAW: {"success":true,"data":[],"count":0}
+14:12:31   OTP_RAW: {"success":true,"otp":null,"code":null,"message":"No OTP found in recent messages."}
+14:12:35 +47s
+14:12:35   MESSAGES_RAW: {"success":true,"data":[],"count":0}
+14:12:35   OTP_RAW: {"success":true,"otp":null,"code":null,"message":"No OTP found in recent messages."}
+14:12:40 +52s
+14:12:40   MESSAGES_RAW: {"success":true,"data":[],"count":0}
+14:12:40   OTP_RAW: {"success":true,"otp":null,"code":null,"message":"No OTP found in recent messages."}
+14:12:44 +56s
+14:12:44   MESSAGES_RAW: {"success":true,"data":[],"count":0}
+14:12:44   OTP_RAW: {"success":true,"otp":null,"code":null,"message":"No OTP found in recent messages."}

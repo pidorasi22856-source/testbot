@@ -1,0 +1,5 @@
+requested: claude-opus-4.7 → used: apricot-sorbet-high usage.model: apricot-sorbet-high
+requested: claude-opus-4.8 → used: ambrosia-tart-high usage.model: ambrosia-tart-high
+requested: gemini-3.1-pro → used: galette-medium-thinking usage.model: galette-medium-thinking
+requested: gpt-5.5 → used: opal-quince-medium usage.model: opal-quince-medium
+requested: (default) → used: oatmeal-cookie usage.model: oatmeal-cookie
